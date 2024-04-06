@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript w/ Node.js & MySql.
 
 ## Toolbox
-FrontEnd Development: `HTML`, `CSS`, `JavaScript`
+FrontEnd Development: `HTML`, `CSS`, `JavaScript`, `React.js`
 
 BackEnd Development: `Node.js`, `Express.js`, `MySql`
 
